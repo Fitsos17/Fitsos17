@@ -9,9 +9,7 @@ I am currently a student in the electrical engineering major. I 💗 cloud compu
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I want to be a solutions architect at AWS when I grow up!
 
-<a href="https://www.twitter.com/AmiridisNikolas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AmiridisNikolas?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Fitsos17" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Fitsos17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fitsos17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
