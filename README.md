@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nick Amoiridis
+Hi! My name is Nick Amoiridis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Junior Frontend Developer and Solutions Architect
--------------------------------------------------
-
-I am currently a student and freelancer. I 💗 cloud computing and programming in react.js!
+I am currently a student in the electrical engineering major. I 💗 cloud computing and programming in react.js!
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [nikolas.amiridis@gmail.com](mailto:nikolas.amiridis@gmail.com)
